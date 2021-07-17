@@ -6,7 +6,7 @@ A simple CV created with an upgrade (i.e. just added some CSS 😅 ) and with th
 ## Deployment
 
 Demo: https://sahup9156.github.io/CV-with-CSS/
-
+[Screenshot](Images/CV2.png)
 
 
 ## Built With
